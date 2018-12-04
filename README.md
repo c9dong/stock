@@ -14,3 +14,8 @@
 ## Run single crawler
 ### rocket
 `scrapy crawl rocket -a company_name={} -a fid={} -a pw={}`
+
+## Deploy to Heroku
+`heroku login`
+`git push heroku master`
+`scrapyd-deploy`
