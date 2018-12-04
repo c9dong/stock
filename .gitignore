@@ -1,0 +1,17 @@
+.DS_Store
+.Python
+*.pyc
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+eggs
+dbs
+logs
+project.egg-info
+*.pid
