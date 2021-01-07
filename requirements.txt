@@ -18,7 +18,7 @@ idna==2.7
 incremental==17.5.0
 ipaddress==1.0.22
 jmespath==0.9.3
-lxml==4.2.5
+lxml==4.6.2
 numpy==1.15.4
 pandas==0.23.4
 parsel==1.5.1
